@@ -1,11 +1,11 @@
-# Mod subversion 1.9.4
+# Mod subversion 1.9.5
 
 <b>mod_svn</b> for Apache 2.4 VC9 
 
 The module is built with Visual Studio Express Edition 2008.
 
 <b>Dependencies version:</b><br>
-sqlite-amalgamation 3120200<br>
-OpenSSL 1.0.2h<br>
+sqlite-amalgamation 3160100<br>
+OpenSSL 1.0.2j<br>
 zlib 1.2.8<br>
-Serf 1.3.8<br>
+Serf 1.3.9<br>
